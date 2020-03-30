@@ -1,5 +1,5 @@
 # memory-example
-Good for testing large creation and deletion of backbone views and models.
+Good for testing large creation and deletion of backbone views and models. (Based entirely off another persons memory example project except for the fact delete does not work how they thought it does)
 
 To run clone the file then run the following command
 ```
